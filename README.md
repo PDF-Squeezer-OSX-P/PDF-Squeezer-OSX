@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/349753/m/pdf-squeezer-screenshot.png?v=1670528568" alt="PDF Squeezer screenshot"/>
+  <img src="https://macx.ws/uploads/posts/2020-06/1591281021_pdf-squeezer_01.jpg" alt="PDF Squeezer screenshot"/>
 </p>
 
 ---
@@ -39,12 +39,6 @@ Quality verification through preview mode displays compression results verifying
 - <a href="#">Efficient</a> operation maintaining performance optimized processing
 - PDF <a href="#">optimization</a> reducing file sizes compression intelligent
 - <a href="#">Size</a> reduction delivering smaller documents quality-balanced
-
----
-
-<p align="center">
-  <img src="https://macx.ws/uploads/posts/2020-06/1591281021_pdf-squeezer_01.jpg" alt="PDF Squeezer screenshot"/>
-</p>
 
 ---
 
